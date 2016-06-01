@@ -1,0 +1,6 @@
+C:\repos\CSharpTestDevelopersBay\CSharpTestDevelopersBay\bin\Debug\CSharpTestDevelopersBay.exe.config
+C:\repos\CSharpTestDevelopersBay\CSharpTestDevelopersBay\bin\Debug\CSharpTestDevelopersBay.exe
+C:\repos\CSharpTestDevelopersBay\CSharpTestDevelopersBay\bin\Debug\CSharpTestDevelopersBay.pdb
+C:\repos\CSharpTestDevelopersBay\CSharpTestDevelopersBay\obj\Debug\CSharpTestDevelopersBay.csprojResolveAssemblyReference.cache
+C:\repos\CSharpTestDevelopersBay\CSharpTestDevelopersBay\obj\Debug\CSharpTestDevelopersBay.exe
+C:\repos\CSharpTestDevelopersBay\CSharpTestDevelopersBay\obj\Debug\CSharpTestDevelopersBay.pdb
